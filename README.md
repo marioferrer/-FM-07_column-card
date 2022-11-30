@@ -26,7 +26,7 @@ Mobile
 ### Links
 
 - Solution Frontend Mentor: [Frontend solution](https://www.frontendmentor.io/solutions/3column-card-tkMO8TTvug)
-- Live Site: [Live site with GitHub Pages](https://marioferrer.github.io/-FM-07_column-card/)
+- Live Site: [Live site with GitHub Pages](https://marioferrer.github.io/FM-07_column-card/)
 
 ## My process
 
